@@ -38,11 +38,9 @@ You enter date and then select departure and destination city from list , number
 You enter amount , want to add to your account.
 
 ![Screenshot 2021-11-27 121633](https://user-images.githubusercontent.com/84980384/143672229-b9f26263-5f92-4b04-94f9-394814dadc54.png)
-* History
-
-![Screenshot 2021-11-24 205759](https://user-images.githubusercontent.com/84980384/143272268-3a07a37e-6d8f-445f-9267-ad72c14f0aad.png)
-
-
+* History\
+Your history is saved and you can see it later.
+![Screenshot 2021-11-27 121633](https://user-images.githubusercontent.com/84980384/143672297-34be7d4f-5a5f-40ca-9b5d-38ca1ca37b27.png)
 * Check balance
 
 ![Screenshot 2021-11-24 205954](https://user-images.githubusercontent.com/84980384/143272625-e844a97b-f049-437f-9834-388f870b2a4e.png)
