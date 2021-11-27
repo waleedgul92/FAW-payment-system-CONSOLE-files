@@ -40,7 +40,9 @@ You enter amount , want to add to your account.
 ![Screenshot 2021-11-27 121633](https://user-images.githubusercontent.com/84980384/143672229-b9f26263-5f92-4b04-94f9-394814dadc54.png)
 * History\
 Your history is saved and you can see it later.
-![Screenshot 2021-11-27 121633](https://user-images.githubusercontent.com/84980384/143672297-34be7d4f-5a5f-40ca-9b5d-38ca1ca37b27.png)
+
+![Screenshot 2021-11-27 122248](https://user-images.githubusercontent.com/84980384/143672374-883bebd5-6cd6-4437-a6ff-8632f664b046.png)
+
 * Check balance
 
 ![Screenshot 2021-11-24 205954](https://user-images.githubusercontent.com/84980384/143272625-e844a97b-f049-437f-9834-388f870b2a4e.png)
