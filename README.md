@@ -27,8 +27,9 @@ You are asked to give username and password. If password is wrong four times, th
 ![Screenshot 2021-11-27 120136](https://user-images.githubusercontent.com/84980384/143671709-4cab1d09-be29-41d0-ad02-3bbfb1a5996a.png)
 
 * Recharging Balance
+You can transfer funds to other account by entering username is beneficially and the amount.if the amount is valid(account balance is higher than transfer amount ), it get paid and asked to enter amount again (may be typo error by user )otherwise.
 
- ![Screenshot 2021-11-24 205050](https://user-images.githubusercontent.com/84980384/143271066-e65bda26-c372-4073-abe3-148beaf79585.png)
+![Screenshot 2021-11-27 120136](https://user-images.githubusercontent.com/84980384/143671941-31c6ea78-ad9a-43f9-aa5d-71f985735502.png)
 * Transport
 
 ![Screenshot 2021-11-24 205348](https://user-images.githubusercontent.com/84980384/143271545-285a590f-d73b-4184-9b06-215aebc810f3.png)
