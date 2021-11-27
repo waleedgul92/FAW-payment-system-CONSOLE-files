@@ -23,13 +23,13 @@ You are asked to give username and password. If password is wrong four times, th
 
 * Billing\
  Enter your reference number of bill and amount , if the amount is valid(account balance is higher than bill ), it get paid and asked to enter amount again (may be typo error by user )otherwise.
- 
+
 ![Screenshot 2021-11-27 120136](https://user-images.githubusercontent.com/84980384/143671709-4cab1d09-be29-41d0-ad02-3bbfb1a5996a.png)
 
 * Recharging Balance\
 You can transfer funds to other account by entering username is beneficially and the amount.if the amount is valid(account balance is higher than transfer amount ), it get paid and asked to enter amount again (may be typo error by user )otherwise.
 
-![Screenshot 2021-11-27 120136](https://user-images.githubusercontent.com/84980384/143671941-31c6ea78-ad9a-43f9-aa5d-71f985735502.png)
+![Screenshot 2021-11-27 122955](https://user-images.githubusercontent.com/84980384/143672575-83e0d573-b530-414d-aedb-06d61d05a768.png)
 * Transport\
 You enter date and then select departure and destination city from list , number of seats and bus service.
 
