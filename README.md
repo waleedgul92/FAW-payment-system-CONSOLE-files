@@ -22,8 +22,8 @@ You are asked to give username and password. If password is wrong four times, th
 ![Screenshot 2021-11-27 115809](https://user-images.githubusercontent.com/84980384/143671592-a8c257fc-89a3-4832-acb1-7c1e0a7eb4a7.png)
 
 * Billing
+![Screenshot 2021-11-27 120136](https://user-images.githubusercontent.com/84980384/143671709-4cab1d09-be29-41d0-ad02-3bbfb1a5996a.png)
 
-![Screenshot 2021-11-22 213826](https://user-images.githubusercontent.com/84980384/142900397-3a20e127-2f1e-4ead-8519-95dfca8ba0f5.png)
 * Recharging Balance
 
  ![Screenshot 2021-11-24 205050](https://user-images.githubusercontent.com/84980384/143271066-e65bda26-c372-4073-abe3-148beaf79585.png)
