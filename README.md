@@ -55,7 +55,7 @@ You enter amount , want to add to your account.
  ​hwaleed0035@gmail.com<br> 
  ​[​LinkedIn​](https://www.linkedin.com/in/waleedgul92/)
 2. Faris Bin Asif\
-   umerj1812@gmail.com\
+   farisbinasif2016@gmail.com\
    [​LinkedIn​](https://www.linkedin.com/in/faris-asif-523396199//)
 3. Arham Nasir\
    mzubairadil465@gmail.com\
