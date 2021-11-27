@@ -2,12 +2,11 @@
 ![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f652f65342f4e6174696f6e616c5f556e69766572736974795f6f665f436f6d70757465725f616e645f456d6572676 (1)](https://user-images.githubusercontent.com/84980384/142883094-f0749c11-8373-4c7a-9e07-b94648ab14b5.png)\
                  Management System made as group project for 1st semester at FAST National University-NUCES NUCES, karachi
 # Description
-OOP is most importtant concept for a programmer.It helps us to think  real life objects while programming.It also  enables to use concepts like enacpsulation and data hiding. A payment system is one of examples of data hding and encapsulations. It was a group project developed by me and my friends in 2nd semester. We did it using Qt craetor. You can download it from [​here​](https://www.qt.io/product/qt6/)
+OOP is most importtant concept for a programmer.It helps us to think  real life objects while programming.It also  enables to use concepts like enacpsulation and data hiding. A payment system is one of examples of data hding and encapsulations. It was a group project developed by me and my friends in 2nd semester. 
 
 # Getting Sarted
 ## Dependencies ##
 * Windows 10/Mac OS/Linux.
-* Qtcrearor
 
 ## Installing ##
 * Made in Dev-C++.
@@ -15,10 +14,10 @@ OOP is most importtant concept for a programmer.It helps us to think  real life 
 ## Exexuting program ##
 * Once all files are download, just compile and run the program.
 ## Features ##
-### Client ###
-By pressing '1' you are a client and you can order as long as program is running.You can order from folling categories
+### Register ###
+By pressing '1' you are a new user and let you register by giving username , password and amount.Then you are directed to login.
+![Screenshot 2021-11-27 115225](https://user-images.githubusercontent.com/84980384/143671468-216c8678-4458-4f4c-925c-d0af6f1f60d5.png)
 
-![Screenshot 2021-11-22 213643](https://user-images.githubusercontent.com/84980384/142900007-f26d170d-6631-4963-ad10-cba7a01cabc2.png)
 * Fruits
 
 ![Screenshot 2021-11-22 213826](https://user-images.githubusercontent.com/84980384/142900397-3a20e127-2f1e-4ead-8519-95dfca8ba0f5.png)
