@@ -44,7 +44,7 @@ Your history is saved and you can see it later.
 ![Screenshot 2021-11-27 122248](https://user-images.githubusercontent.com/84980384/143672374-883bebd5-6cd6-4437-a6ff-8632f664b046.png)
 
 * Check balance
-
+You can check current balance of yours.
 ![Screenshot 2021-11-24 205954](https://user-images.githubusercontent.com/84980384/143272625-e844a97b-f049-437f-9834-388f870b2a4e.png)
 
 ## Known Issues ##
