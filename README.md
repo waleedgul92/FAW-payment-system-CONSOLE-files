@@ -34,9 +34,10 @@ You can transfer funds to other account by entering username is beneficially and
 You enter date and then select departure and destination city from list , number of seats and bus service.
 
 ![Screenshot 2021-11-27 121306](https://user-images.githubusercontent.com/84980384/143672103-8a6ce735-f965-40ad-af6a-892e4220bfe8.png)
-* Recharge account
+* Recharge account\
+You enter amount , want to add to your account.
 
-![Screenshot 2021-11-24 205613](https://user-images.githubusercontent.com/84980384/143271921-7b09d121-c12f-4aca-8c5c-4fdf45318867.png)
+![Screenshot 2021-11-27 121633](https://user-images.githubusercontent.com/84980384/143672229-b9f26263-5f92-4b04-94f9-394814dadc54.png)
 * History
 
 ![Screenshot 2021-11-24 205759](https://user-images.githubusercontent.com/84980384/143272268-3a07a37e-6d8f-445f-9267-ad72c14f0aad.png)
