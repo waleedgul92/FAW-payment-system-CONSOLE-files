@@ -22,7 +22,7 @@ You are asked to give username and password. If password is wrong four times, th
 ![Screenshot 2021-11-27 115809](https://user-images.githubusercontent.com/84980384/143671592-a8c257fc-89a3-4832-acb1-7c1e0a7eb4a7.png)
 
 * Billing
- Enter your reference number of bill and amount , if the amount is valid(account balance is higher than bill ), it get paid and don't otherwise.
+ Enter your reference number of bill and amount , if the amount is valid(account balance is higher than bill ), it get paid and asked to enter amount again (may be typo error by user )otherwise.
  
 ![Screenshot 2021-11-27 120136](https://user-images.githubusercontent.com/84980384/143671709-4cab1d09-be29-41d0-ad02-3bbfb1a5996a.png)
 
