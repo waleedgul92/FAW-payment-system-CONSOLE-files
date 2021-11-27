@@ -45,8 +45,8 @@ Your history is saved and you can see it later.
 
 * Check balance
 You can check current balance of yours.
-![Screenshot 2021-11-24 205954](https://user-images.githubusercontent.com/84980384/143272625-e844a97b-f049-437f-9834-388f870b2a4e.png)
 
+![Screenshot 2021-11-27 122447](https://user-images.githubusercontent.com/84980384/143672433-a8651c77-363f-4c35-aeac-765a5460decc.png)
 ## Known Issues ##
 * The file is reset to only amount you enter, other will be reset.
 * The categories must be accessed by numbers instead of names
