@@ -30,10 +30,10 @@ You are asked to give username and password. If password is wrong four times, th
 You can transfer funds to other account by entering username is beneficially and the amount.if the amount is valid(account balance is higher than transfer amount ), it get paid and asked to enter amount again (may be typo error by user )otherwise.
 
 ![Screenshot 2021-11-27 120136](https://user-images.githubusercontent.com/84980384/143671941-31c6ea78-ad9a-43f9-aa5d-71f985735502.png)
-* Transport
+* Transport\
+You enter date and then select departure and destination city from list , number of seats and bus service.
 
-![Screenshot 2021-11-24 205348](https://user-images.githubusercontent.com/84980384/143271545-285a590f-d73b-4184-9b06-215aebc810f3.png)
-
+![Screenshot 2021-11-27 121306](https://user-images.githubusercontent.com/84980384/143672103-8a6ce735-f965-40ad-af6a-892e4220bfe8.png)
 * Recharge account
 
 ![Screenshot 2021-11-24 205613](https://user-images.githubusercontent.com/84980384/143271921-7b09d121-c12f-4aca-8c5c-4fdf45318867.png)
