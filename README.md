@@ -48,8 +48,8 @@ You can check current balance of yours.
 
 ![Screenshot 2021-11-27 122447](https://user-images.githubusercontent.com/84980384/143672433-a8651c77-363f-4c35-aeac-765a5460decc.png)
 ## Known Issues ##
-* The file is reset to only amount you enter, other will be reset.
-* The categories must be accessed by numbers instead of names
+* You can transfer funds to non existing username.
+* if the username is wrong in login, no exception is thrown.
 # Authors
 1. ​Waleed Gul<br> 
  ​hwaleed0035@gmail.com<br> 
