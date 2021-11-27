@@ -2,10 +2,13 @@
 ![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f652f65342f4e6174696f6e616c5f556e69766572736974795f6f665f436f6d70757465725f616e645f456d6572676 (1)](https://user-images.githubusercontent.com/84980384/142883094-f0749c11-8373-4c7a-9e07-b94648ab14b5.png)\
                  Management System made as group project for 1st semester at FAST National University-NUCES NUCES, karachi
 # Description
-Programming Fundamentals is basic and and important concept for a computer science student.Management resources of store is key to flourish your store.We made a store managemnt system with categories and further sub-catergories.Also there are two authorities ie, owner and clients.
+OOP is most importtant concept for a programmer.It helps us to think  real life objects while programming.It also  enables to use concepts like enacpsulation and data hiding. A payment system is one of examples of data hding and encapsulations. It was a group project developed by me and my friends in 2nd semester. We did it using Qt craetor. You can download it from [​here​](https://www.qt.io/product/qt6/)
+
 # Getting Sarted
 ## Dependencies ##
-* Windows 10/Mac OS/Linux
+* Windows 10/Mac OS/Linux.
+* Qtcrearor
+
 ## Installing ##
 * Made in Dev-C++.
 * Need all files in repository.
@@ -60,8 +63,10 @@ By pressing '2' , you are asked a password which is 'owner123' and then shows al
 1. ​Waleed Gul<br> 
  ​hwaleed0035@gmail.com<br> 
  ​[​LinkedIn​](https://www.linkedin.com/in/waleedgul92/)
-2. Abdul-Hanan\
-   umerj1812@gmail.com
-3. Zubair\
-   mzubairadil465@gmail.com
+2. Faris Bin Asif\
+   umerj1812@gmail.com\
+   [​LinkedIn​](https://www.linkedin.com/in/faris-asif-523396199//)
+3. Arham Nasir\
+   mzubairadil465@gmail.com\
+   [​LinkedIn​](https://www.linkedin.com/in/arham-nasir-365137217//)
 
