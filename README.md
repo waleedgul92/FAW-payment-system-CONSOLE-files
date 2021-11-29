@@ -58,6 +58,6 @@ You can check current balance of yours.
    farisbinasif2016@gmail.com\
    [​LinkedIn​](https://www.linkedin.com/in/faris-asif-523396199//)
 3. Arham Nasir\
-   mzubairadil465@gmail.com\
+   arhamnasir66@gmail.com\
    [​LinkedIn​](https://www.linkedin.com/in/arham-nasir-365137217//)
 
