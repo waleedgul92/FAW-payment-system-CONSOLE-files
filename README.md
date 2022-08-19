@@ -60,7 +60,4 @@ You can check current balance of yours.
 3. Arham Nasir\
    arhamnasir66@gmail.com\
    [​LinkedIn​](https://www.linkedin.com/in/arham-nasir-365137217//)
-4. Zain Ali\
-   muhammadzain757@gmail.com\
-   [​LinkedIn​](linkedin.com/in/muhammad-zain-ul-abiddin-83194a201)
 
